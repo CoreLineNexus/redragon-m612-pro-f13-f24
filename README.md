@@ -79,4 +79,13 @@ This project is **not affiliated with or endorsed by Redragon**.
 
 ## License
 
-No license has been selected for this initial draft. Before publishing as an open-source project, add a license (MIT is a common permissive choice) if you want to permit others to reuse and modify the code.
+Copyright (c) 2026 CoreLineNexus
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
+
+You are free to use, modify, and distribute this software
+in accordance with the terms of the MIT License.
+
+This is an independent, community-developed project
+and is not affiliated with or endorsed by Redragon.
